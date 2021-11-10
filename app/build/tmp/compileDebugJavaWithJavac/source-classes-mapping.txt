@@ -1,0 +1,17 @@
+com/example/android/droidcafeinput/SettingsActivity.java
+ com.example.android.droidcafeinput.SettingsActivity
+ com.example.android.droidcafeinput.SettingsActivity$1
+ com.example.android.droidcafeinput.SettingsActivity$DataSyncPreferenceFragment
+ com.example.android.droidcafeinput.SettingsActivity$GeneralPreferenceFragment
+ com.example.android.droidcafeinput.SettingsActivity$NotificationPreferenceFragment
+com/example/android/droidcafeinput/AppCompatPreferenceActivity.java
+ com.example.android.droidcafeinput.AppCompatPreferenceActivity
+com/example/android/droidcafeinput/BuildConfig.java
+ com.example.android.droidcafeinput.BuildConfig
+com/example/android/droidcafeinput/OrderActivity.java
+ com.example.android.droidcafeinput.OrderActivity
+ com.example.android.droidcafeinput.OrderActivity$1
+ com.example.android.droidcafeinput.OrderActivity$2
+com/example/android/droidcafeinput/MainActivity.java
+ com.example.android.droidcafeinput.MainActivity
+ com.example.android.droidcafeinput.MainActivity$1
